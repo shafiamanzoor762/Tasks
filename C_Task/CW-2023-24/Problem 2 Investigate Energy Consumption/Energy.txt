@@ -1,0 +1,3 @@
+Timestamp: 2024-03-15 16:15:51, Energy Consumption: 4550 KJ
+Timestamp: 2024-03-15 16:15:51, Energy Consumption: 4125 KJ
+Timestamp: 2024-03-15 16:15:51, Energy Consumption: 4325 KJ

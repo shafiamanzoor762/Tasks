@@ -1,0 +1,8 @@
+Electric Bill
+Name: Alina
+House Number: 3450
+Email Address: alina123@gmail.com
+Phone Number: 139877532
+Meter Number: 3456
+Energy Consumed: 1000.00 KW
+Total Bill Amount: £4500.00
